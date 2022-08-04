@@ -1,0 +1,18 @@
+{
+  "bracketSameLine": true,
+  "trailingComma": "none",
+  "overrides": [
+    {
+      "files": "*.java",
+      "options": {
+        "tabWidth": 4
+      }
+    },
+    {
+      "files": "*.js",
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
